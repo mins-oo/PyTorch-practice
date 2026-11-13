@@ -1,8 +1,12 @@
 # PyTorch-practice
 
-[tutorial link](https://tutorials.pytorch.kr/beginner/basics/intro.html)
+This is my Pytorch practice repository.
+
+After learning basic PyTorch skills, I plan to explore ExecuTorch for on-device machine learning deployment.
 
 ## basic PyTorch
+
+[PyTorch KR tutorial link](https://tutorials.pytorch.kr/beginner/basics/intro.html)
 
 | index | subject | reference |
 |---|---|---|
