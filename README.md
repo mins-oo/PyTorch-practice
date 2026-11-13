@@ -2,44 +2,8 @@
 
 [tutorial link](https://tutorials.pytorch.kr/beginner/basics/intro.html)
 
-## Tensor
-```
-data = [[1, 1, 1], [0, 0, 1], [1, 1, 0]]
-tensor = torch.tensor(data)
-
-Output:
-tensor([[1, 1, 1],
-        [0, 0, 1],
-        [1, 1, 0]])
-```
-`tensor.shape`, `tensor.dtype`, `tensor.device`
-
-row[i]: `tensor[i]`, column[-1]: `tensor[:, -1]`
-
-### copy override
-maintain shape, data type
-```
-ones_like(tensor)
-rand_like(tensor, dtype=torch.float)
-zeros_like(tensor)
-```
-
-### matrix operations
-```
-torch.cat((tensor, tensor), dim=1)  # dim=0: row, dim=1: column
-
-tensor @ tensor.T  # matrix multiplication: tensor.matmul(tensor2.T)
-
-tensor * tensor  # element-wise product: tensor.mul(tensor2)
-```
-
-tensor`s change affects numpy array
-```
-n = tensor.numpy()
-tensor.add_(1)
-
-Output:
-[[2 2 2]
- [1 1 2]
- [2 2 1]]
-```
+| index | subject | reference |
+|---|---|---|
+|1|[Tensor](subject/Tensor.md)|[텐서(Tensor)](https://tutorials.pytorch.kr/beginner/basics/tensorqs_tutorial.html)|
+|2|[Dataset](subject/Dataset.md)|[Dataset과 DataLoader](https://tutorials.pytorch.kr/beginner/basics/data_tutorial.html)|
+|---|---|---|
