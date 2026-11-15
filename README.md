@@ -14,6 +14,7 @@ After learning basic PyTorch skills, I plan to explore ExecuTorch for on-device 
 |2|[Dataset](subject/Dataset.md)|[Dataset과 DataLoader](https://tutorials.pytorch.kr/beginner/basics/data_tutorial.html)|
 |3|[Transform](subject/Transform.md)|[변형(Transform)](https://tutorials.pytorch.kr/beginner/basics/transforms_tutorial.html)|
 |4|[Neural Network](subject/NN.md)|[신경망 모델 구성하기](https://tutorials.pytorch.kr/beginner/basics/buildmodel_tutorial.html)|
+|5|[Autograd](subject/Autograd.md)|[`torch.autograd`를 사용한 자동 미분](https://tutorials.pytorch.kr/beginner/basics/autogradqs_tutorial.html)|
 |---|---|---|
 
 ## TorchVision
