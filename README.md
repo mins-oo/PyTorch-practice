@@ -16,6 +16,7 @@ After learning basic PyTorch skills, I plan to explore ExecuTorch for on-device 
 |4|[Neural Network](subject/NN.md)|[신경망 모델 구성하기](https://tutorials.pytorch.kr/beginner/basics/buildmodel_tutorial.html)|
 |5|[Autograd](subject/Autograd.md)|[`torch.autograd`를 사용한 자동 미분](https://tutorials.pytorch.kr/beginner/basics/autogradqs_tutorial.html)|
 |6|[Optimization](subject/Optimization.md)|[모델 매개변수 최적화하기](https://tutorials.pytorch.kr/beginner/basics/optimization_tutorial.html)|
+|7|[Model](subject/Model.md)|[모델 저장하고 불러오기](https://tutorials.pytorch.kr/beginner/basics/saveloadrun_tutorial.html)|
 |---|---|---|
 
 ## TorchVision
