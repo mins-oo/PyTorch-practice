@@ -2,7 +2,7 @@
 
 This is my Pytorch practice repository.
 
-After learning basic PyTorch skills, I plan to explore ExecuTorch for on-device machine learning deployment.
+After learning basic PyTorch skills, I plan to explore on-device AI.
 
 ## basic PyTorch
 
@@ -20,7 +20,10 @@ After learning basic PyTorch skills, I plan to explore ExecuTorch for on-device 
 |---|---|---|
 
 ## TorchVision
-For **Computer Vision** domain
+**Computer Vision** domain
 
 ## ExecuTorch
-For **On-Device** AI engine
+**On-Device** AI engine
+
+## TorchAO
+**Quantization** for On-Device or NPU
